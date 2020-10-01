@@ -8,10 +8,10 @@ const replaceCharacterE = (text) => {
 const concatString = (text1, text2) => {
     return text1 + text2;
 }
-const showChar5 = (text) => {
+ const showChar5 = (text) => {
     return text[4];
 }
-const showChar9 = (text) => {
+ const showChar9 = (text) => {
     return text.substring(0,9);
 }
 const toCapitals = (text) => {
