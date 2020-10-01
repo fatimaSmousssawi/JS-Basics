@@ -10,4 +10,4 @@ var change_border = function() {
     }
 }
 
-button.addEventListener("click"
+button.addEventListener("click", change_border);
